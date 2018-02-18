@@ -10,3 +10,4 @@ ADD . /app
 
 CMD ["node", "server"]
 
+.
